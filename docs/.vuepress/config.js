@@ -50,7 +50,8 @@ module.exports = {
                             children: [
                                 'improve/summary',
                                 'improve/get-start',
-                                'improve/simple'
+                                'improve/simple',
+                                'improve/transaction'
                             ]
                         },
                         {
