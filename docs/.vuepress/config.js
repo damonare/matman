@@ -51,7 +51,8 @@ module.exports = {
                                 'improve/summary',
                                 'improve/get-start',
                                 'improve/simple',
-                                'improve/transaction'
+                                'improve/transaction',
+                                'improve/withdraw'
                             ]
                         },
                         {
