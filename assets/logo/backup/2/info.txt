@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: vremenagrotesk
+font link: https://www.fontspring.com/fonts/abstrkt/vremena?utm_source=fontsquirrel.com&utm_medium=download_link&utm_campaign=vremena-grotesk#firstfreeproduct
+font author: ABSTRKT
+font author site: 
+Slogan Font: vremenagrotesk
+
+icon designer: Ramesha
+icon designer link: /ramesharagu616
+        
+{"bg":"#FB690A","icon":"#FFFDFB","font":"#FFFDFB","slogan":"#ffffff"}
+      
